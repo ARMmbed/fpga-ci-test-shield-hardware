@@ -1,0 +1,40 @@
+[Eagle]
+Version="09 06 00"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-Connector.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-Discrete.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-IC.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-MF-ATMEL.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-MF-LAIRD.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-MF-MULTITECH.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-MF-NORDIC.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-MF-NXP.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-MF-ONSEMI.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-MF-ST.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-MF-UBLOX.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-Modules.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-Optical.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-Oscillator.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-Power.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-RF.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-RLC.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-Switch.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-Test.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-misc-Board.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-misc-Enclosure.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-misc-Silkscreen.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-misc-Symbol.lbr"
+UsedLibrary="C:/Users/alahay02/Arm/isg-devices - Board Designs/mbed-HDK-Libraries/lbr/mbed-HDK-misc-Template.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="4992 2160"
+Window="Win_1"
