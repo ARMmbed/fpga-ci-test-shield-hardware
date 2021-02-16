@@ -1,4 +1,4 @@
-# Mbed FPGA Test shield
+# FPGA CI Test shield
 
 ## TODO
 * Find eagle license
