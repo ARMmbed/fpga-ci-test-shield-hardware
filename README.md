@@ -1,9 +1,3 @@
-# FPGA CI Test shield
-
-## TODO
-* Find eagle license
-* Check that the projects actually open
-* Look at missing libs
-
+# FPGA CI Test shield - hardware design
 
 Note: the RTL code for the FPGA lives in a separate repository: https://github.com/ARMmbed/fpga-ci-test-shield
